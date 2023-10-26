@@ -5,9 +5,6 @@ public class GameGrid {
 
     private static final int EMPTY = 0; // Représente une case vide
 
-    private static final int Player1 = 1 ;  // Représente le joueur 1
-    private static final int Player2 = -1 ;  // Représente le joueur 2
-
     protected  int[][] grid ;// Le tableau contiendra 3x3 éléments.
     public GameGrid(){ // Creation du constructeur et initialisation de la map de jeu !
         grid = new int [SIZE][SIZE];
