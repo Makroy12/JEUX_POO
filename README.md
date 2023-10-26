@@ -12,3 +12,38 @@
     À tour de rôle, chaque joueur remplace un zéro sur la grille par son chiffre (1 ou -1).
     Les joueurs continuent de jouer jusqu'à ce que l'un des joueurs forme une ligne, une colonne ou une diagonale dont la somme est égale à 3, ou jusqu'à ce que la grille soit complètement remplie.
     Si un joueur forme une ligne, une colonne ou une diagonale dont la somme est égale à 3, il gagne. Si la grille est complètement remplie sans qu'aucun joueur n'atteigne cet objectif, la partie est déclarée nulle.
+
+
+
+# Atteindre 10 (Maké SAGNA)
+
+    Atteindre 10
+## Objectif : Le but est d'être le premier joueur à avoir trois de ses chiffres alignés (horizontalement, verticalement ou diagonalement) dont la somme est exactement 10.
+
+# Règles :
+
+La grille est initialement vide.
+Les joueurs ont à leur disposition les chiffres de 1 à 9. Chaque chiffre ne peut être utilisé qu'une seule fois.
+Les deux joueurs décident au hasard qui commence.
+À tour de rôle, chaque joueur choisit un chiffre disponible (non utilisé précédemment) et le place dans une case vide de la grille.
+Le jeu se poursuit jusqu'à ce qu'un joueur obtienne une combinaison de trois chiffres alignés sommant à 10 ou jusqu'à ce que tous les chiffres soient utilisés.
+Si un joueur obtient une combinaison de trois chiffres alignés sommant à 10, il gagne. Si tous les chiffres sont utilisés sans qu'aucun joueur n'atteigne cet objectif, la partie est déclarée nulle.
+
+
+
+
+# Échelle de Trois (Seonho KIM)
+
+## Objectif : Le but est d'être le premier joueur à créer une séquence ascendante ou descendante de trois chiffres alignés (horizontalement, verticalement ou diagonalement).
+
+# Règles :
+
+La grille est initialement vide.
+Les joueurs ont à leur disposition les chiffres de 1 à 9. Chaque chiffre ne peut être utilisé qu'une seule fois.
+Les deux joueurs décident au hasard qui commence.
+À tour de rôle, chaque joueur choisit un chiffre disponible (non utilisé précédemment) et le place dans une case vide de la grille.
+Le jeu se poursuit jusqu'à ce qu'un joueur aligne trois chiffres formant une séquence ascendante ou descendante ou jusqu'à ce que tous les chiffres soient utilisés.
+Si un joueur réussit à aligner trois chiffres formant une séquence, il gagne. Si tous les chiffres sont utilisés sans qu'aucun joueur n'atteigne cet objectif, la partie est déclarée nulle.
+
+
+
