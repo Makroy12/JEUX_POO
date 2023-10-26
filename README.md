@@ -32,11 +32,11 @@ Si un joueur obtient une combinaison de trois chiffres alignés sommant à 10, i
 
 
 
-Échelle de Trois
+# Échelle de Trois (Seonho KIM)
 
-Objectif : Le but est d'être le premier joueur à créer une séquence ascendante ou descendante de trois chiffres alignés (horizontalement, verticalement ou diagonalement).
+## Objectif : Le but est d'être le premier joueur à créer une séquence ascendante ou descendante de trois chiffres alignés (horizontalement, verticalement ou diagonalement).
 
-Règles :
+# Règles :
 
 La grille est initialement vide.
 Les joueurs ont à leur disposition les chiffres de 1 à 9. Chaque chiffre ne peut être utilisé qu'une seule fois.
